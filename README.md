@@ -49,6 +49,24 @@ streamlit run app.py
 - GIS and route optimization
 - Live emergency monitoring dashboard
 
+  ## Results
+
+- Successfully analyzed historical incident data.
+- Predicted incident severity using Machine Learning.
+- Generated insights for emergency response planning.
+
+## Project Architecture
+
+Dataset
+↓
+Data Preprocessing
+↓
+Machine Learning Model
+↓
+Prediction
+↓
+Dashboard Visualization
+
 ## Author
 Sravani Gongati
 B.Tech AI Engineering, Marwadi University
